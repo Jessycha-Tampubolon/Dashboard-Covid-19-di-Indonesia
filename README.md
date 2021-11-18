@@ -4,9 +4,11 @@ Dashboard dapat diakses pada link berikut
 https://public.tableau.com/app/profile/jessycha.royanti.tampubolon/viz/DashboardCovid19Indonesia_16372243195900/DashboardCovid19Indonesia?publish=yes
 
 Dataset dapat diperoleh dari Kaggle menggunakan link berikut
+
 https://www.kaggle.com/hendratno/covid19-indonesia
 
 Referensi dalam pembuatan Dashboard adalah WHO Coronavirus (COVID-19) Dashboard yang dapat diakses di link berikut
+
 https://covid19.who.int/
 
 Dashboard terdiri dari 3 chart, yaitu : 
